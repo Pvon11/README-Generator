@@ -23,17 +23,17 @@ const questions = [
   },
   {
     type: "input",
-    message: "are there installation instructions for your README",
+    message: "Provide installation instructions if applicable",
     name: "installation",
   },
   {
     type: "input",
-    message: "Write your test instructions for your README",
+    message: "Provide test instructions",
     name: "test",
   },
   {
     type: "input",
-    message: "Write your contribution guidelines for your README",
+    message: "Provide contributors if applicable",
     name: "contribution",
   },
   {
