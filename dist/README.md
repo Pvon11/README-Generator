@@ -20,7 +20,7 @@ this is where you can put info about your project
 
 Dependencies if applicable.
 
-for this i hhad to npm i my node modules
+for this i had to npm i my node modules
 
 ## Usage
 
